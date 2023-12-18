@@ -7,7 +7,8 @@ public class AtmApp {
         //version 2
         System.out.println("Learn java eran money!!");
         //version 3
-
+        System.out.println("Javayı öğrenmek çok kolay");
+        //version4
 
 
 
