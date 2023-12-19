@@ -11,6 +11,7 @@ public class AtmApp {
         //version4
         System.out.println("master branch'i kodlarını yazdı");
         //master1
+        //remote çalışması yaptım
 
 
 
