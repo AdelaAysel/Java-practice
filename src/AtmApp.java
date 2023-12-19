@@ -9,6 +9,9 @@ public class AtmApp {
         //version 3
         System.out.println("Javayı öğrenmek çok kolay");
         //version4
+        System.out.println("master branch'i kodlarını yazdı");
+        //master1
+
 
 
 
