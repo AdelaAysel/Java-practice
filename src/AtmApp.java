@@ -12,10 +12,11 @@ public class AtmApp {
         System.out.println("master branch'i kodlarını yazdı");
         //master1
         //remote çalışması yaptım
-        --------------------------------------
+       // --------------------------------------
                 //değişiklik
 
-
+         int b =23;
+         double a=23.4;
 
 
 
